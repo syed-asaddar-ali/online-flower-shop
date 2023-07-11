@@ -223,6 +223,23 @@
     background-color: #fff;
 
 }
+footer{
+    height: 250px;
+    background-color: #27272799; 
+    padding: 10px;
+}
+.foot-title{
+    color: #fff;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 100px;
+}
+.foot{
+    color: white;
+    text-align: center;
+}
+
 
 
 
