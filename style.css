@@ -193,22 +193,25 @@
 
 .latest-deal{
     height: 300px;
-    width: 74%;
+    width: 80%;
     background-image: url("./flower asset/Rectangle 9.png");
     background-repeat: no-repeat;
     margin: 0 auto;
-    padding: 50px;
+    /* padding: 30px; */
     margin-top: 100px;
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
 .latest-title{
     color: #272727;
     text-align: center;
     font-size: 40px;
     font-weight: 800;
-    margin-top: 100px;
     
 }
+    
 .latest-desc{
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
@@ -216,14 +219,12 @@
     font-weight: 400;
     line-height: 30px;
 }
-/* ---footer section style--- */
 .email{
     width: 600px;
     height: 50px;
-    margin-left: 250px;
     background-color: #fff;
-
 }
+/* ---footer section style--- */
 footer{
     height: 250px;
     background-color: #27272799; 
@@ -235,12 +236,20 @@ footer{
     font-size: 48px;
     font-weight: 800;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 70px;
 }
 .foot{
     color: white;
     text-align: center;
 }
+    
+
+    
+
+    
+
+    
+
 
 
 
