@@ -99,9 +99,7 @@
 
 /*--- new arrival section style--- */
 
-.new-arrival{
-    
-}
+
 .new-arrival-title{
     color: #272727;
     font-size: 40px;
@@ -163,7 +161,7 @@
     width: 80%;
     margin: 0 auto;
 }
-.insta-title{
+.instagram-title{
     color: #272727;
     text-align: center;
     font-size: 40px;
@@ -171,7 +169,7 @@
     margin-top: 100px;
     margin-bottom: 20px;
 }
-.insta-desc{
+.instagram-desc{
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-size: 18 px;
@@ -180,13 +178,13 @@
 
 
 }
-.boxs{
+.boxes{
     display: flex;
     justify-content: center;
     gap: 20px;
 }
 
-.insta-img{
+.instagram-img{
     width: 290px;
 }
 /* ---latest-deal section style--- */
@@ -291,7 +289,7 @@ footer{
 
 
 
-}
+
 
 
 
